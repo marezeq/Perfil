@@ -461,15 +461,15 @@
   }
   
   .about-stats .progress-bars .progress-bar .progress-con .progress .html {
-    width: 80%;
+    width: 100%;
   }
   
   .about-stats .progress-bars .progress-bar .progress-con .progress .css {
-    width: 75%;
+    width: 55%;
   }
   
   .about-stats .progress-bars .progress-bar .progress-con .progress .js {
-    width: 100%;
+    width: 70%;
   }
   
   .about-stats .progress-bars .progress-bar .progress-con .progress .java {
@@ -477,11 +477,11 @@
   }
   
   .about-stats .progress-bars .progress-bar .progress-con .progress .mysql {
-    width: 100%;
+    width: 70%;
   }
   
   .about-stats .progress-bars .progress-bar .progress-con .progress .git {
-    width: 70%;
+    width: 100%;
   }
   
   .stat-title {
